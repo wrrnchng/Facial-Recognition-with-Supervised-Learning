@@ -69,16 +69,8 @@ The code implements a machine learning pipeline to:
 
         python main.py
 
-### Expected Outcome
-
-The project aims to achieve a minimum accuracy of 80% with at least one of the classification models, ensuring reliable distinction between Arnold Schwarzenegger and other individuals.
-
 ### Contributions
 
 Contributions are welcome! Feel free to fork the repository, open an issue, or submit a pull request with improvements.
-
-### License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 
