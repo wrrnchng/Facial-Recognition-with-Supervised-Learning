@@ -73,4 +73,8 @@ The code implements a machine learning pipeline to:
 
 Contributions are welcome! Feel free to fork the repository, open an issue, or submit a pull request with improvements.
 
+### License
+
+This project is licensed under the MIT License.
+
 
