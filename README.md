@@ -1,5 +1,8 @@
 # Facial Recognition with Supervised Learning
 
+### Disclaimer
+*This project is based on files and datasets provided by DataCamp as part of their real-world projects. The dataset and structure align with educational content from DataCamp to help learners practice machine learning techniques in real-world scenarios.*
+
 ### Project Overview
 
 This project leverages machine learning to enhance the security of influential figures by distinguishing Arnold Schwarzenegger from others. The goal is to build multiple classification models and determine the best-performing one based on cross-validation scores.
