@@ -1,5 +1,13 @@
 # Facial Recognition with Supervised Learning
 
+![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Forks](https://img.shields.io/github/forks/wrrnchng/Facial-Recognition-with-Supervised-Learning?style=social)
+![Stars](https://img.shields.io/github/stars/wrrnchng/Facial-Recognition-with-Supervised-Learning?style=social)
+
+
 ### Disclaimer
 *This project is based on files and datasets provided by DataCamp as part of their real-world projects. The dataset and structure align with educational content from DataCamp to help learners practice machine learning techniques in real-world scenarios.*
 
