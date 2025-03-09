@@ -61,15 +61,11 @@ The code implements a machine learning pipeline to:
 
 ### Installation & Usage
 
-1. Navigate to the project directory:
-
-        cd arnold-classification
-
-2. Install required dependencies:
+1. Install required dependencies:
 
         pip install -r requirements.txt
 
-3. Run the script:
+2. Run the script:
 
         python main.py
 
