@@ -61,19 +61,15 @@ The code implements a machine learning pipeline to:
 
 ### Installation & Usage
 
-1. Clone the repository:
-
-        git clone https://github.com/yourusername/arnold-classification.git
-
-2. Navigate to the project directory:
+1. Navigate to the project directory:
 
         cd arnold-classification
 
-3. Install required dependencies:
+2. Install required dependencies:
 
         pip install -r requirements.txt
 
-4. Run the script:
+3. Run the script:
 
         python main.py
 
